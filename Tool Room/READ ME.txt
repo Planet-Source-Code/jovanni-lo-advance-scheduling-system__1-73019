@@ -1,0 +1,23 @@
+About Tool Room Scheduling System...
+
+This project is a compiled project for my OS class defence. Made this in 2weeks (Some codes from previous projects).
+Hope you will learn something with this system. This system has a lot of features aside from Scheduling processes.
+It's not yet complete for now, specially on reports.. I made some report categories and some are on progress. 
+
+Please do NOT sell or use this system on your credits. :-)
+
+Before you open the .vbp file, Execute the "Run me first.bat"
+If you like to program, please vote.. Thanks
+
+
+A product of PBSP System Development
+Coded and Compiled by: Jovanni Lo - Senior Programmer, System Analyst
+
+Credits to:
+OS Class '10. 
+Instructor: Mr. Pueblos
+ACSAT Dumaguete, PH. - Success starts here.
+
+For your Comments and Sudgestions PLEASE Contact me:
+09058479626, 
+jlo_van@yahoo.com
